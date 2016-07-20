@@ -3,4 +3,4 @@ node_modules
 thumbs.db
 ._*
 npm-debug.log*
-
+dist
